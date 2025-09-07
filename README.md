@@ -12,11 +12,12 @@ It works on both desktop and mobile devices.
 
 ## Project Structure
 ```
-calculator/
-├── index.html   # Main HTML file
-├── style.css    # Styling with gradients and professional UI
-├── script.js    # JavaScript logic for calculations
-└── README.md    # Project documentation
+🟠index.html # Main HTML file
+🟠style.css # Styling with gradients and professional UI
+🟠script.js # JavaScript logic for calculations
+🟠README.md # Project documentation
+
+
 
 ```
 
